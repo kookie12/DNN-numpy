@@ -7,7 +7,7 @@
 * 결과는 loss graph, confustion matrix, top-3 score images로 출력하였습니다.
 
 ### 1. Loss Graph
-<img src="https://user-images.githubusercontent.com/48863707/147733157-3166b638-1852-472e-99b0-4bb8fa4c9bbd.png" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/48863707/147733157-3166b638-1852-472e-99b0-4bb8fa4c9bbd.png" width="40%" height="40%">
 
 ### 2. Confusion Matrix
 <img src="https://user-images.githubusercontent.com/48863707/147733182-6518496c-b3fb-4b07-afa3-b278fb6b8615.png" width="50%" height="50%">
