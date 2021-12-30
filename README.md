@@ -9,8 +9,10 @@ numpy를 이용해서 3 layer neural network를 구성하였습니다. Neural_Ne
 ![image](https://user-images.githubusercontent.com/48863707/147733157-3166b638-1852-472e-99b0-4bb8fa4c9bbd.png)
 
 ### 2. Confusion Matrix
-![image](https://user-images.githubusercontent.com/48863707/147733182-6518496c-b3fb-4b07-afa3-b278fb6b8615.png)
+<img src="https://user-images.githubusercontent.com/48863707/147733182-6518496c-b3fb-4b07-afa3-b278fb6b8615.png  width="400" height="400"/>
 
 ### 3. Top 3 score images
-![image](https://user-images.githubusercontent.com/48863707/147733195-9a1ade89-2fd7-4f36-b4f5-9819a342efaa.png)
+<img src="https://user-images.githubusercontent.com/48863707/147733276-f16dc837-1771-483f-9dd6-964e985bfecc.png  width="400" height="400"/>
+
+
 
